@@ -1,0 +1,10 @@
+logging
+requests
+urllib3
+colorama
+python-telegram-bot
+asyncio
+nltk
+apscheduler
+python-dotenv
+httpx
