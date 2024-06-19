@@ -1,5 +1,6 @@
 # Domain Scraper Bot
-![Domain Scraper Bot](https://example.com/path-to-your-image.jpg)
+![Domain Scraper Bot](https://github.com/arjeeeen/DomainScraperBot/blob/main/domain.jpg)
+
 Welcome to the **Domain Scraper Bot**! This bot helps you analyze domain availability and manage domain-related tasks directly from Telegram. The bot supports multiple languages, including English and Italian.
 
 ## How to Get Started
