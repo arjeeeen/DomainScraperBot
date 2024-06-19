@@ -24,6 +24,7 @@ Install the dependencies by running:
 
 ```bash
 pip install -r requirements.txt
+```
 Configuration
 Telegram Bot Token:
 
