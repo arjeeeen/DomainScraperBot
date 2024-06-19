@@ -16,18 +16,19 @@ Simply start a chat with the bot on Telegram and use the commands listed below t
 
 ### Domain Management
 
-- **/domain <extension>**: Set the domain extension (e.g., .com, .it).
-- **/setfile <file_path>**: Specify the file you want to analyze (supports .txt or .csv files).
-- **/analyze**: Start analyzing domains listed in the specified file.
-- **/stop**: Stop the ongoing domain analysis.
-- **/list**: Download the HTML file with the analysis results.
-- **/available**: Display the available domains from the analysis.
-- **/supported**: List the supported TLDs (Top Level Domains).
+- **/domain <extension>**: Set the domain extension (e.g., .com, .it)
+- **/wordlist: Generate wordlist dictionary .txt from your custom words 
+- **/setfile <file_path>**: Specify the file you want to analyze (supports .txt or .csv files)
+- **/analyze**: Start analyzing domains listed in the specified file
+- **/stop**: Stop the ongoing domain analysis
+- **/list**: Download the HTML file with the analysis results
+- **/profile**: Display all the info about you
+- **/supported**: List the supported TLDs (Top Level Domains)
 
 ### Payments
 
-- **/pay <amount> <currency> <email>**: Make a payment to add credits for more domain scans.
-- **/credit**: Check your remaining credit.
+- **/pay <amount> <currency> <email>**: Make a payment to add credits for more domain scans
+- **/credit**: Check your remaining credit
 
 ### Wordlist Generation
 
@@ -49,12 +50,13 @@ Simply start a chat with the bot on Telegram and use the commands listed below t
     ```
 4. **Check Available Domains**:
     ```
-    /available
+    /list
     ```
 5. **Make a Payment**:
     ```
     /pay 1 LTC email@example.com
     ```
+Where the number indicate the amount in EURO 
 
 ## Additional Information
 
@@ -67,3 +69,6 @@ Simply start a chat with the bot on Telegram and use the commands listed below t
 If you need help or have any questions, feel free to contact [support](mailto:domini@mondohacking.com).
 
 Enjoy using the Domain Scraper Bot!
+
+### Created by
+Arjen Van Zwam and Russo Federico
