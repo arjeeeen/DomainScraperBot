@@ -1,5 +1,5 @@
 # Domain Scraper Bot
-
+![Domain Scraper Bot](https://example.com/path-to-your-image.jpg)
 Welcome to the **Domain Scraper Bot**! This bot helps you analyze domain availability and manage domain-related tasks directly from Telegram. The bot supports multiple languages, including English and Italian.
 
 ## How to Get Started
@@ -17,7 +17,7 @@ Simply start a chat with the bot on Telegram and use the commands listed below t
 ### Domain Management
 
 - **/domain <extension>**: Set the domain extension (e.g., .com, .it)
-- **/wordlist: Generate wordlist dictionary .txt from your custom words 
+- **/wordlist**: Generate wordlist dictionary .txt from your custom words 
 - **/setfile <file_path>**: Specify the file you want to analyze (supports .txt or .csv files)
 - **/analyze**: Start analyzing domains listed in the specified file
 - **/stop**: Stop the ongoing domain analysis
